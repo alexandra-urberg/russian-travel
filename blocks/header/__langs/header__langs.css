@@ -1,7 +1,7 @@
 .header__langs {
     display: grid;
     grid-area: langs;
-    grid-template-columns:  min-content min-content; 
+    grid-template-columns:  min-content min-content;
     grid-auto-columns: min-content;
     column-gap: 18px;
     justify-content: end;
