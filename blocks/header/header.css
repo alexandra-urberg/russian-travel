@@ -16,14 +16,14 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
     .header {
-        width: 91%; 
+        width: 91%;
         column-gap: 72.7%;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .header {
-        width: 94%; 
+        width: 94%;
         column-gap: 65%;
     }
 }
@@ -37,7 +37,7 @@
 
 @media screen and (min-width: 320px) and (max-width: 400px) {
     .header {
-        width: 90%; 
+        width: 90%;
         max-height: 42px;
         column-gap: 29%;
     }
