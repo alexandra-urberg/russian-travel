@@ -14,7 +14,7 @@
     }
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1280px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
     .header {
         width: 91%;
         column-gap: 72.7%;
