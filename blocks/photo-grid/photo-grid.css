@@ -3,7 +3,7 @@
     margin: 0 auto;
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (max-width: 1280px) {
     .photo-grid {
         width: 92.5%;
         grid-template-columns: repeat(4, 1fr);
