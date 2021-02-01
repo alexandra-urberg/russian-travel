@@ -1,11 +1,16 @@
 .photo-grid {
     display: grid;
-    width: 92.5%;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(3, 1fr);
-    grid-column-gap: 16px;
-    grid-row-gap: 16px;
     margin: 0 auto;
+}
+
+@media screen (max-width: 1280px) {
+     .photo-grid {
+         width: 92.5%;
+         grid-template-columns: repeat(4, 1fr);
+         grid-template-rows: repeat(3, 1fr);
+         grid-column-gap: 16px;
+         grid-row-gap: 16px;
+    }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
