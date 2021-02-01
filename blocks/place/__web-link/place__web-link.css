@@ -1,11 +1,12 @@
 .place__web-link {
-    text-decoration: underline;
-    font-style: normal;
-    font-size: 18px;
-    line-height: 22px;
-    color: #ffffff;
     display: flex;
     margin-top: 12px;
+    font-size: 18px;
+    line-height: 22px;
+    font-style:  normal;
+    font-weight: 400;
+    color: #ffffff;
+    text-decoration: underline;
     transition: all 0.3s ease;
 }
 
