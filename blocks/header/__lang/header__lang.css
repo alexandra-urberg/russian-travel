@@ -1,0 +1,23 @@
+.header__lang {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: normal;
+    color: #FFFFFF;
+    text-decoration: none;
+
+    transition: all 0.3s ease;
+}
+
+.header__lang:hover {
+    opacity: 0.3;
+}
+
+@media screen and (max-width: 767px) {
+    .header__lang {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

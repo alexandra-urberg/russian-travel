@@ -1,0 +1,19 @@
+.place {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: fit-content(984px);
+    row-gap: 80px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .place {
+        row-gap: 73px;
+        grid-template-columns: fit-content(720px)
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .place {
+        row-gap: 64px;
+    }
+}

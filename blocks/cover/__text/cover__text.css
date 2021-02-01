@@ -1,0 +1,24 @@
+.cover__text {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-areas: 
+    "coverTitle"
+    "coverSubtitle";
+    row-gap: 32px;
+    padding: 0;
+    margin: 0 auto;
+    align-items: center;
+}
+
+@media screen and (min-width: 401px) and (max-width: 767px) {
+    .cover__text {
+        row-gap: 16px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 400px) {
+    .cover__text {
+        row-gap: 16px;
+    }
+}

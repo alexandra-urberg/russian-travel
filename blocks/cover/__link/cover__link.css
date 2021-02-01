@@ -1,0 +1,17 @@
+.cover__link {
+    display: flex;
+    z-index: 1;
+    grid-row: 1;
+    grid-column: 1;
+    justify-self: stretch;
+    align-self: stretch;
+    align-items: center;
+    text-decoration: none;
+    box-shadow: 0 0 0 372px rgba(42, 44, 47, 0.3) inset;
+    transition: all 0.3s ease;
+}
+
+.cover__link:hover {
+    box-shadow: 0 0 0 372px rgba(42, 44, 47, 0.8) inset;
+    transition: all 0.3s ease;
+}

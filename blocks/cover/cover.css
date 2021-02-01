@@ -1,0 +1,24 @@
+.cover {
+    display: grid;
+    grid-template-columns: minmax(min-content, 1184px);
+    grid-template-rows: min-content;
+    justify-content: center;
+    margin: 0;
+}
+
+.cover {
+    padding: 92px 0 0;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .cover {
+        padding: 90px 0 0;    
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .cover {
+        padding: 66px 0 0;    
+    }
+}
+

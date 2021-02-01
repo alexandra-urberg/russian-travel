@@ -1,0 +1,16 @@
+.place__web-link {
+    text-decoration: underline;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #ffffff;
+    display: flex;
+    margin-top: 12px;
+    transition: all 0.3s ease;
+}
+
+.place__web-link:hover {
+    opacity: 0.8;
+}
+
+

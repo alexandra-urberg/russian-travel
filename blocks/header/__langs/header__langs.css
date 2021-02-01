@@ -1,0 +1,13 @@
+.header__langs {
+    display: grid;
+    grid-area: langs;
+    grid-template-columns:  min-content min-content; 
+    grid-auto-columns: min-content;
+    column-gap: 18px;
+    justify-content: end;
+    align-content: end;
+    grid-column: 2/3;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}

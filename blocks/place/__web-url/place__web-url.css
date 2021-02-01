@@ -1,0 +1,9 @@
+.place__web-url {
+    font-family: 'Inter';
+    font-style: normal;
+    letter-spacing: 0.2em;
+    margin: 0;
+    font-size: 12px;
+    line-height: 12px;
+    color: #aaaaaa;
+}

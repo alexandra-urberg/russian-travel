@@ -1,0 +1,4 @@
+.place__paragraphs {
+    grid-area: paragraphs;
+    list-style-type: none;
+}
