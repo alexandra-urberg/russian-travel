@@ -1,7 +1,7 @@
 .intro__text {  
     margin-left: 0; 
     padding: 0 0 92px;
-    align-self: left;
+    text-align: left;
 }
 
 @media screen and (min-width: 1280px) {
