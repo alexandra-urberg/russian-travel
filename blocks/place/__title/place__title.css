@@ -8,7 +8,7 @@
     margin: 0;
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
     .place__title {
         width: 90%;
         font-size: 32px;
