@@ -10,7 +10,7 @@
     padding: 0;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
     .place__item {
         column-gap: 32px;
         grid-template-columns: fit-content(440px) fit-content(456px);
