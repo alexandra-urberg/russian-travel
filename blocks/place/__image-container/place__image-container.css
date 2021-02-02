@@ -1,4 +1,27 @@
-.place__image-container {
-    width: 100%;
-    height: 100%;
+
+@media screen and (max-width: 1280px) {
+    max-width: 460px;
+    max-height: 460px;
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    max-width: 440px;
+    max-height: 440px;
+}
+
+@media screen and (min-width: 720px) and (max-width: 1023px) {
+    max-width: 340px;
+    max-height: 340px;
+}
+
+@media screen and (min-width: 401px) and (max-width: 719px) {
+    max-width: 350px;
+    max-height: 350px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 400px) {
+    max-width: 320px;
+    max-height: 320px;
+}
+    
+  
