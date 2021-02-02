@@ -5,20 +5,9 @@
     text-align: left;
 }
 
-@media screen and (max-width: 1280px) {
-    .intro__text {
-       max-width: 690px;
-    }
-}
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
-    .intro__text {
-        max-width: 690px; 
-    }
-}
-
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .intro__text {
-        width: 93.7%;
+        max-width: 720px;
         padding-bottom: 88px;
         margin: 0 auto;
     }
