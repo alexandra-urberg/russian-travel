@@ -1,13 +1,11 @@
 .place__image-container {
     justify-content: start;
-    margin: 0 auto;
 }
 
 @media screen and (max-width: 1280px) {
     .place__image-container {
         max-height: 460px;
         max-width: 460px;
-        margin: 0;
     }
 }
 
@@ -15,7 +13,6 @@
     .place__image-container {
         max-width: 440px;
         max-height: 440px;
-        margin: 0;
     }
 }
 
@@ -23,7 +20,6 @@
     .place__image-container {
         max-width: 340px;
         max-height: 340px;
-        margin: 0;
     }
 }
 
@@ -38,7 +34,6 @@
     .place__image-container {
         max-width: 320px;
         max-height: 320px;
-        margin: 0;
     }
 }
     
