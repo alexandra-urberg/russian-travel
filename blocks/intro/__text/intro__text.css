@@ -1,15 +1,15 @@
 .intro__text {  
+    max-width: 690px;
     margin-left: 0;
     padding: 0 0 92px;
     text-align: left;
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (max-width: 1280px) {
     .intro__text {
-        width: 54%; 
+       max-width: 690px;
     }
 }
-
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .intro__text {
         width: 67.4%; 
