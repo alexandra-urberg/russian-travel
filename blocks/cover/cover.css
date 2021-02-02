@@ -3,7 +3,7 @@
     grid-template-columns: minmax(min-content, 1184px);
     grid-template-rows: min-content;
     justify-content: center;
-    margin: 0;
+    margin: 0 auto;
     padding: 92px 0 0;
 }
 
