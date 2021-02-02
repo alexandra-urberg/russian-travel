@@ -1,7 +1,8 @@
 .cover__subtitle {
     grid-area: coverSubtitle;
     margin: 0 auto;
-    width: 30.4%;
+    padding: 0 0 245px 0;
+    max-width: 360px;
     font-style: normal;
     font-size: 18px;
     line-height: 22px;
@@ -12,25 +13,19 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .cover__subtitle {
-        font-size: 16px;
-        line-height: 18px;
-        width: 35.1%;
+        padding-bottom: 195px;
     }
 }
 
-@media screen and (min-width: 767px) and (max-width: 1023px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
     .cover__subtitle {
-        font-size: 16px;
-        line-height: 18px;
-        width: 46.87%;
+        padding-bottom: 115px;
     }
 }
 
 @media screen and (min-width: 401px) and (max-width: 767px) {
     .cover__subtitle {
-        font-size: 16px;
-        line-height: 18px;
-        width: 70%;
+        padding-bottom: 115px;
     }
 }
 
@@ -39,5 +34,6 @@
         font-size: 14px;
         line-height: 16px;
         width: 90%;
+        padding-bottom: 33px;
     }
 }
