@@ -1,5 +1,28 @@
 .cover__image {
-    width: 100%;
-    z-index: 0;   
+   display: block;
+   max-width: 1184px;
+   background-image: url("../../../img/cover-trains.jpg");
+   background-size: cover;
+   background-position: center;
+   height: auto;
+}
+
+@media screen and (min-width: 1280px) {
+    .cover__image{ 
+       max-width: 1184px;
+   }
+}
+
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .cover__image {
+        max-width: 1024px;  
+   }
+}
+
+@media screen and (min_width: 768px) and (max-width: 1023px) {
+    .cover__image {
+        width: 100%;   
+   }
 }
 
