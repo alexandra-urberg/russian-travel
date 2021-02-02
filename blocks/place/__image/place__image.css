@@ -2,3 +2,8 @@
    height: 100%;
    width: 100%;
 }
+
+@media screen and (min-width: 401px) and (max-width: 719px) {
+   .place__image {
+      margin: 0 auto;
+   }
