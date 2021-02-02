@@ -27,6 +27,7 @@
     .place__image-container {
         max-width: 350px;
         max-height: 350px;
+        margin: 0 auto;
     }
 }
 
