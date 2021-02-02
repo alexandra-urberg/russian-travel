@@ -1,5 +1,7 @@
 .place__image-container {
     justify-content: start;
+    max-height: 460px;
+    max-width: 460px;
     margin: 0 auto;
 }
 
@@ -7,6 +9,8 @@
     .place__image-container {
         max-height: 460px;
         max-width: 460px;
+    }
+}
     }
 }
 
