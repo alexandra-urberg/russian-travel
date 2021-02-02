@@ -1,5 +1,6 @@
 .place__image-container {
     justify-content: start;
+    align-self: center;
 }
 
 @media screen and (max-width: 1280px) {
@@ -27,7 +28,6 @@
     .place__image-container {
         max-width: 350px;
         max-height: 350px;
-        margin: 0 auto;
     }
 }
 
