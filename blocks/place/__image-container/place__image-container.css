@@ -1,11 +1,11 @@
-.palce__image-container {
+.place__image-container {
     max-width: 460px;
     max-height: 460px;
     grid-area: image;
 }
 
 @media screen and (max-width: 375px) {
-    .palce__image-container {
+    .place__image-container {
         width: 100%;
     }
 }
