@@ -4,6 +4,10 @@ Landing website (HTML + CSS)
 **[GH-pages](https://alexandra-stepanova.github.io/russian-travel/)**
 
 **[Figma Layout example](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)**
+
+<code><img height="500" src="https://github.com/alexandra-stepanova/russian-travel/blob/master/img/russian-travel.gif"></code>
+
+##
 ___________________________
 Landing project about traveling from Moscow to Baikal by train. 
 
