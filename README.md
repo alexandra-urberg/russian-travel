@@ -1,23 +1,24 @@
-# Название проекта: __Russian-travel__
-## 2 проект для ЯндексПрактикум
-### 23 поток, группа orchid
-#### Выполнила: Степанова А.А.
+# Russian-travel (2 sprint)
+Landing website (HTML + CSS)
 
-_https://alexandra-stepanova.github.io/russian-travel/_
+**[GH-pages](https://alexandra-stepanova.github.io/russian-travel/)**
 
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+**[Figma Layout example](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)**
 ___________________________
-Данный проект разрабатывался как для большого, так и для малого экрана. Выполнен по БЭМ. Сделана доступность для людей с ограниченными возможностями.
-Проект отображается в _Safari_, _Firefox_, _Google Chrome_ или _Yandex Browser_. В проекте присутствуют: изображения. Все ссылки рабочие. Весь код CSS находится в Nested файловой структуре по БЭМ.
+Landing project about traveling from Moscow to Baikal by train. 
+
+This project was developed like mobile adaptive website. Executed by BEM.
+The project is displayed in _Safari_, _Firefox_, _Google Chrome_ or _Yandex Browser_. The project contains: images. All links are working. All CSS code is located in the Nested file structure according to BEM.
 ___________________________
-Основные технологии используемые в данном проекте:
-1. HTML, CSS:
-   семантика и валидность html и CSS разметки
-2. Git, Flex;
-3. БЭМ;
-4. Nested файловая структура по БЭМ;
-5. Адаптаця под размер устройств от 320px.
+
+The following stack was used during development of the project:
+
+1. HTML;
+2. CSS;
+3. Git, Flex;
+4. BEM;
+5. Mobile adaptive website;
 
 ___________________________
+
+Prepared by Alexandra Stepanova
